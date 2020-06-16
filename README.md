@@ -18,4 +18,26 @@
 ## PHP7 & XAMPP
 * Install the software from [here](https://www.apachefriends.org/index.html).
 
+### How to open a PHP file on localhost:
+* Go to `Drive C`
+* Open `xampp`folder_name
+* Open `htdocs`
+* Create a folder: `folder_name`
+* Create a file inside it: `file_name.php`
+* **Now simply type: `http://localhost/folder_name/file_name.php`**
+
 ## Variables, Constants & Data Types
+
+
+
+
+
+
+
+
+# *REFERENCES*
+* [PHP in Visual Studio Code](https://www.youtube.com/watch?time_continue=1&v=HBQuRPTim3A&feature=emb_logo)
+* [Visual Studio Code Docs for PHP](https://code.visualstudio.com/docs/languages/php)
+* [PHP Tutorial 1](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
+)
+* [PHP Tutorial 2](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)
