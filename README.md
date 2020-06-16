@@ -14,3 +14,8 @@
 
 ![dBXob](https://user-images.githubusercontent.com/61280281/84816005-7faaaf80-b031-11ea-92ae-15df3885c06f.gif)
 
+
+# PHP7 & XAMPP
+* Install the software from [here](https://www.apachefriends.org/index.html).
+
+## Variables, Constants & Data Types
