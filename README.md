@@ -1,5 +1,4 @@
-# PHP_Basics
-
+# *INTRODUCTION*
 ## PHP : Hypertext Preprocessor 
 (*Recursive Acronym*)
 - Server Side Programming / Scripting Language
@@ -14,3 +13,4 @@
 - Result is sent back to client
 
 ![dBXob](https://user-images.githubusercontent.com/61280281/84816005-7faaaf80-b031-11ea-92ae-15df3885c06f.gif)
+
