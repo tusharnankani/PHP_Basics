@@ -26,9 +26,7 @@
 * Create a file inside it: `file_name.php`
 * **Now simply type: `http://localhost/folder_name/file_name.php`**
 
-## Variables, Constants & Data Types
-
-
+## [Variables, Constants & Data Types](https://github.com/tusharnankani/PHP_Basics/blob/master/VariablesAndDataTypes.php)
 
 
 
