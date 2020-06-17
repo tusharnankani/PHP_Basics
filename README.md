@@ -26,8 +26,17 @@
 * Create a file inside it: `file_name.php`
 * **Now simply type: `http://localhost/folder_name/file_name.php`**
 
-## Variables, Constants & Data Types
-*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/VariablesAndDataTypes.php)*
+### Variables, Constants & Data Types
+*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/0.%20VariablesAndDataTypes.php)*
+
+### Arrays
+*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/1.%20Arrays.php)*
+
+### Loops
+*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/2.%20Loops.php)*
+
+### Functions
+*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/3.%20Functions.php)*
 
 
 
