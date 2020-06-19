@@ -37,7 +37,7 @@
 
 
 
-    // FUnctions returning value
+    // Functions returning value
 
     function add($a, $b) {
         return $a + $b;
@@ -73,6 +73,8 @@
     addten($num);
     echo $num;
     # Outputs 20 --> num changes when passed by reference;
+
+
 
 
 ?>
