@@ -4,7 +4,7 @@
 * `$_SERVER` is an array containing information such as headers, paths, and script locations. The entries in this array are created by the web server.
 
 ### index.php
-*code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/website2/index.php)*
+* *code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/website2/index.php)*
 
 ![index](https://user-images.githubusercontent.com/61280281/85629458-8d92ad00-b68f-11ea-86d4-a9f0d2636137.png)
 
