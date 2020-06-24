@@ -26,17 +26,22 @@
 * Create a file inside it: `file_name.php`
 * **Now simply type: `http://localhost/folder_name/file_name.php`**
 
-### Variables, Constants & Data Types
-*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/0.%20VariablesAndDataTypes.php)*
 
-### Arrays
-*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/1.%20Arrays.php)*
+# *OVERVIEW*
+* [Variables, Constants & Data Types](https://github.com/tusharnankani/PHP_Basics/blob/master/0.%20VariablesAndDataTypes.php)
 
-### Loops
-*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/2.%20Loops.php)*
+* [Arrays](https://github.com/tusharnankani/PHP_Basics/blob/master/1.%20Arrays.php)
 
-### Functions
-*The code can be viewed [here.](https://github.com/tusharnankani/PHP_Basics/blob/master/3.%20Functions.php)*
+* [Loops](https://github.com/tusharnankani/PHP_Basics/blob/master/2.%20Loops.php)
+
+* [Functions](https://github.com/tusharnankani/PHP_Basics/blob/master/3.%20Functions.php)
+
+*  [Conditionals & Comarisons](https://github.com/tusharnankani/PHP_Basics/blob/master/4.%20ConditionalsAndComarisons.php)
+
+* [Dates & Timestamps](https://github.com/tusharnankani/PHP_Basics/blob/master/5.%20DatesAndTimestamps.php)
+
+* [Include & Require](https://github.com/tusharnankani/PHP_Basics/tree/master/website1)
+
 
 
 
