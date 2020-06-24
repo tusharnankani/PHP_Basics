@@ -9,11 +9,11 @@
 ![index](https://user-images.githubusercontent.com/61280281/85629458-8d92ad00-b68f-11ea-86d4-a9f0d2636137.png)
 
 ## NOTE:
-1. All elements of the $_SERVER array whose keys begin with 'HTTP_' come from HTTP request headers and are not to be trusted.
+1. All elements of the `$_SERVER` array whose keys begin with 'HTTP_' come from HTTP request headers and are not to be trusted.
 
-2. All HTTP headers sent to the script are made available through the $_SERVER array, with names prefixed by 'HTTP_'.
+2. All HTTP headers sent to the script are made available through the `$_SERVER` array, with names prefixed by 'HTTP_'.
 
-3. $_SERVER['PHP_SELF'] is dangerous if misused. If login.php/nearly_arbitrary_string is requested, $_SERVER['PHP_SELF'] will contain not just login.php, but the entire login.php/nearly_arbitrary_string. If you've printed $_SERVER['PHP_SELF'] as the value of the action attribute of your form tag without performing HTML encoding, an attacker can perform XSS attacks by offering users a link to your site such as this:
+3. `$_SERVER['PHP_SELF']` is dangerous if misused. If login.php/nearly_arbitrary_string is requested, `$_SERVER['PHP_SELF']` will contain not just login.php, but the entire login.php/nearly_arbitrary_string. If you've printed `$_SERVER['PHP_SELF']` as the value of the action attribute of your form tag without performing HTML encoding, an attacker can perform XSS attacks by offering users a link to your site such as this:
 
 `<a href='http://www.example.com/login.php/"><script type="text/javascript">...</script><span a="'>Example.com</a>`
 
